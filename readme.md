@@ -57,7 +57,7 @@
 
 <br />
 
-![Darshit Hedpara's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash5862&count_private=true&show_icons=true&theme=dark)
+![Yash Majithiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash5862&count_private=true&show_icons=true&theme=dark)
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash5862&theme=light&layout=compact)
